@@ -162,3 +162,9 @@ address, article, aside, figcaption, figure, footer, header, main, nav, section{
 .sidebar {
     min-height: 2800px;
 }
+
+/* 新闻图片容器 */
+.scroll-container {
+    max-height: 6000px; /* 或您希望的任何高度 */
+    overflow-y: auto;
+}
